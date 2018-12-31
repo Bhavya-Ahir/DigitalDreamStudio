@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "4133683524",
+    "firebase_url": "https://digitaldreamstudio-11526.firebaseio.com",
+    "project_id": "digitaldreamstudio-11526",
+    "storage_bucket": "digitaldreamstudio-11526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4133683524:android:945ddc4f3020a9ba",
+        "android_client_info": {
+          "package_name": "com.example.bhavya.digitaldreamstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4133683524-v5faij2bj1f4lvov0hf8vfsua930gg93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhavya.digitaldreamstudio",
+            "certificate_hash": "ac6fd6c0d02de211e67c72a057e1198908bb0f40"
+          }
+        },
+        {
+          "client_id": "4133683524-10gvmenl7mjdgl4mqq37b4a12m5foiqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt_tjU996_AyskKr9q7l_y0Pv1xHixLkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4133683524-10gvmenl7mjdgl4mqq37b4a12m5foiqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
